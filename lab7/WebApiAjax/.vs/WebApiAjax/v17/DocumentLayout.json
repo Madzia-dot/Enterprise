@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|c:\\users\\magdalena\\source\\repos\\webapiajax\\webapiajax\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|c:\\users\\magdalena\\source\\repos\\webapiajax\\webapiajax\\webapiajax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\webapiajax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|c:\\users\\magdalena\\source\\repos\\webapiajax\\webapiajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|c:\\users\\magdalena\\source\\repos\\webapiajax\\webapiajax\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D7E2C-E209-4890-813C-ED7875A6889E}|WebApiAjax\\WebApiAjax.csproj|solutionrelative:webapiajax\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiAjax",
+              "DocumentMoniker": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\WebApiAjax.csproj",
+              "RelativeDocumentMoniker": "WebApiAjax\\WebApiAjax.csproj",
+              "ToolTip": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\WebApiAjax.csproj",
+              "RelativeToolTip": "WebApiAjax\\WebApiAjax.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T17:27:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebApiAjax\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeToolTip": "WebApiAjax\\wwwroot\\index.html",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T17:26:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiAjax\\Program.cs",
+              "ToolTip": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\Program.cs",
+              "RelativeToolTip": "WebApiAjax\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:14:29.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcResult.cs",
+              "DocumentMoniker": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\CalcResult.cs",
+              "RelativeDocumentMoniker": "WebApiAjax\\CalcResult.cs",
+              "ToolTip": "C:\\Users\\Magdalena\\source\\repos\\WebApiAjax\\WebApiAjax\\CalcResult.cs",
+              "RelativeToolTip": "WebApiAjax\\CalcResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:13:50.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
